@@ -25,7 +25,7 @@ About This Project:
 ### Setup .env file
 
 ```bash
-PORT=5000
+PORT=6000
 MONGO_URI=your_mongo_uri
 
 UPSTASH_REDIS_URL=your_redis_url
